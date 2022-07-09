@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="InterfacesGraficas.InterfacesChidas.InterfaceChidaPrueba2.login">
+  <grid id="27dc6" binding="Panel1" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="8" y="-2" width="512" height="422"/>
+    </constraints>
+    <properties>
+      <background color="-1378049"/>
+      <font name="DialogInput" size="24" style="0"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="d43a7" class="javax.swing.JLabel" binding="Suma">
+        <constraints border-constraint="North"/>
+        <properties>
+          <font name="Source Code Pro ExtraLight" size="28" style="0"/>
+          <foreground color="-16119286"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Suma de numeros"/>
+        </properties>
+      </component>
+      <component id="dd97e" class="javax.swing.JLabel" binding="instrucciones">
+        <constraints border-constraint="West"/>
+        <properties>
+          <font name="DialogInput" size="20" style="0"/>
+          <foreground color="-16777216"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Ingresa Los numeros a sumar"/>
+          <verticalAlignment value="1"/>
+          <verticalTextPosition value="3"/>
+        </properties>
+      </component>
+      <vspacer id="97265">
+        <constraints border-constraint="Center"/>
+      </vspacer>
+    </children>
+  </grid>
+</form>
