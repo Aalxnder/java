@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Levi Alexander Perez Elizondo
+Main-Class: Bienvenida
+X-COMMENT: Creado Para el curso de Java Como Practica
